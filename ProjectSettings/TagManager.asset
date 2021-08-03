@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weapon
+  - Ladder
+  - Treasure
+  - Portal
+  - Throwable
+  - Enemy
+  - Environment
+  - LadderBar
+  - Wall
+  - GameObjectParent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - IgnoreJumpRaycast
+  - Player
+  - IgnoreCollider
+  - Environment
+  - Enemy
+  - HurtPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map Environments
+    uniqueID: 817660129
+    locked: 0
+  - name: Money
+    uniqueID: 3094172363
+    locked: 0
+  - name: MeleeWeapon
+    uniqueID: 2658282543
+    locked: 0
+  - name: Player, Enemy
+    uniqueID: 870169177
+    locked: 0
+  - name: RangedWeapon
+    uniqueID: 2688616209
+    locked: 0
+  - name: Effect
+    uniqueID: 154374745
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
